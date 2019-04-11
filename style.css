@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'generic-icons';
   src:
-    url('fonts/generic-icons.ttf?5y56al') format('truetype'),
-    url('fonts/generic-icons.woff?5y56al') format('woff'),
-    url('fonts/generic-icons.svg?5y56al#generic-icons') format('svg');
+    url('fonts/generic-icons.ttf?e9s23g') format('truetype'),
+    url('fonts/generic-icons.woff?e9s23g') format('woff'),
+    url('fonts/generic-icons.svg?e9s23g#generic-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,6 +34,54 @@ i {
 }
 .wallpaper-remove:before {
   content: "\e934";
+}
+.account:before {
+  content: "\f004";
+}
+.account-alert:before {
+  content: "\f005";
+}
+.account-group-outline:before {
+  content: "\fb34";
+}
+.ambulance:before {
+  content: "\f02f";
+}
+.arrow-down:before {
+  content: "\f045";
+}
+.arrow-up:before {
+  content: "\f05d";
+}
+.bullhorn1:before {
+  content: "\f0e6";
+}
+.close:before {
+  content: "\f156";
+}
+.file-move:before {
+  content: "\fab8";
+}
+.gavel:before {
+  content: "\f29b";
+}
+.message-alert:before {
+  content: "\f362";
+}
+.minus:before {
+  content: "\f374";
+}
+.playlist-check:before {
+  content: "\f5c7";
+}
+.playlist-remove:before {
+  content: "\f413";
+}
+.plus1:before {
+  content: "\f415";
+}
+.run:before {
+  content: "\f70d";
 }
 .file:before {
   content: "\e945";
@@ -760,6 +808,9 @@ i {
 }
 .people:before {
   content: "\e7fb";
+}
+.flash1:before {
+  content: "\e8d5";
 }
 .dots-three-horizontal:before {
   content: "\e913";
